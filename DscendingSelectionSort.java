@@ -11,7 +11,7 @@ public class DscendingSortingAlgorithm {
         //return the selection sort for selectionSort method
         SelectionSort(salary,0);
         //print the array in order
-        System.out.println("Th salary in order:");
+        System.out.println("Th salary in revers order:");
         System.out.println(salary.toString());
     }
     //do recursion method to sort the element from lower to higher
