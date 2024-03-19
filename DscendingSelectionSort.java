@@ -1,5 +1,5 @@
 import java.util.*;
-public class AscendingSortingAlgorithm {
+public class DscendingSortingAlgorithm {
     public static void main(String[] args) {
         //create a new array and add value
         ArrayList<Integer> salary=new ArrayList<>();
