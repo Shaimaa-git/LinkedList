@@ -10,8 +10,8 @@ public class DscendingSortingAlgorithm {
         salary.add(1800);
         //return the selection sort for selectionSort method
         SelectionSort(salary,0);
-        //print the array in order
-        System.out.println("Th salary in revers order:");
+        //print the array in reverse order
+        System.out.println("Th salary in reverse order:");
         System.out.println(salary.toString());
     }
     //do recursion method to sort the element from lower to higher
