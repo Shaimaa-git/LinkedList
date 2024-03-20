@@ -11,8 +11,8 @@ public class SortingStringFruitInDescending {
         fruits.add("watermelon");
         //call selectionSortString method
         selectionSortStrings(fruits, 0, fruits.size() - 1);
-        //print the array in order of alpha
-        System.out.println("Fruits in revers order: ");
+        //print the array in reverse order of alpha
+        System.out.println("Fruits in reverse order: ");
         System.out.println(fruits);
     }
     //create a method of selectionSortStrings to store array recursively
